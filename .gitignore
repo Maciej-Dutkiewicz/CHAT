@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+### .gitMOJE template
+.idea/
+node_modules/
+public/
